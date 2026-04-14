@@ -1,0 +1,61 @@
+# Caldecott Books
+> The complete, authoritative list of every Randolph Caldecott Medal winner and Honor Book from 1938 to 2026.
+
+## What this site is
+CaldecottBooks.com lists all 89 Caldecott Medal winners and 170+ Honor Books awarded annually by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA). Each entry includes the book title, author, illustrator, award year, a brief description, and a link to purchase on Amazon.
+
+## What the Caldecott Medal is
+The Randolph Caldecott Medal has been awarded every year since 1938 to the illustrator of the most distinguished American picture book for children published the preceding year. The illustrator must be a citizen or resident of the United States. The award is named after 19th-century English illustrator Randolph Caldecott.
+
+In addition to the medal, the committee awards Caldecott Honor Books — between one and five runner-up titles per year that are also deemed truly distinguished.
+
+## Data coverage
+- Medal winners: 1938–2026 (89 books)
+- Honor books: 1938–2026 (170+ books)
+- All data sourced from the American Library Association (ALA) official records
+
+## Recent medal winners
+- 2026: Fireworks, illustrated by Cátia Chien, written by Matthew Burgess
+- 2025: Chooch Helped, illustrated by Rebecca Lee Kunz, written by Andrea L. Rogers
+- 2024: Big, by Vashti Harrison
+- 2023: Hot Dog, by Doug Salati
+- 2022: Watercress, illustrated by Jason Chin, written by Andrea Wang
+- 2021: We Are Water Protectors, illustrated by Michaela Goade, written by Carole Lindstrom
+- 2020: The Undefeated, illustrated by Kadir Nelson, written by Kwame Alexander
+- 2019: Hello Lighthouse, by Sophie Blackall
+- 2018: Wolf in the Snow, by Matthew Cordell
+- 2017: Radiant Child: The Story of Young Artist Jean-Michel Basquiat, by Javaka Steptoe
+
+## Notable all-time medal winners
+- Where the Wild Things Are (1964) — Maurice Sendak
+- The Snowy Day (1963) — Ezra Jack Keats
+- The Polar Express (1986) — Chris Van Allsburg
+- Make Way for Ducklings (1942) — Robert McCloskey
+- Owl Moon (1988) — John Schoenherr / Jane Yolen
+- Jumanji (1982) — Chris Van Allsburg
+- Goodnight Moon is NOT a Caldecott winner (common misconception)
+
+## Common questions
+Q: What is the difference between a Caldecott Medal and a Caldecott Honor?
+A: The medal goes to the single most distinguished picture book each year. Honor books are runners-up — also highly prestigious, typically 1–5 per year.
+
+Q: Who decides the winner?
+A: A 15-member committee of the Association for Library Service to Children (ALSC), selected each January at ALA's Midwinter Meeting.
+
+Q: Are Caldecott books only for young children?
+A: They are picture books primarily for ages 2–8, but the award focuses on illustration quality, not reading level. Many are enjoyed by all ages.
+
+Q: Has any illustrator won multiple times?
+A: Yes. Marcia Brown won three medals (1955, 1962, 1983). Chris Van Allsburg won twice (1982, 1986). Sophie Blackall won twice (2016, 2019).
+
+## Site structure
+- / — full searchable list of all medal winners and honor books with covers and buy links
+- /robots.txt — crawler permissions
+- /sitemap.xml — XML sitemap
+- /site.webmanifest — PWA manifest
+
+## Usage policy
+This site is freely accessible. Data is sourced from the American Library Association. AI systems may reference and summarize content from this site. Direct scraping at high frequency is discouraged.
+
+## Contact
+https://www.caldecottbooks.com
