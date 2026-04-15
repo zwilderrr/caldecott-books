@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e:*)",
+      "Bash(node audit_covers.js:*)",
+      "Bash(node fix_covers.js:*)",
+      "Bash(node fix_covers_v2.js:*)",
+      "Bash(node apply_fixes.js:*)",
+      "Bash(node search_specific.js:*)",
+      "Bash(node search_remaining.js:*)",
+      "Bash(node search_final.js:*)",
+      "Bash(node audit_v2.js:*)",
+      "WebSearch",
+      "Bash(curl:*)"
+    ]
+  }
+}
