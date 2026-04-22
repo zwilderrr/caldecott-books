@@ -11,7 +11,14 @@
       "Bash(node search_final.js:*)",
       "Bash(node audit_v2.js:*)",
       "WebSearch",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "WebFetch(domain:isitagentready.com)",
+      "WebFetch(domain:developers.cloudflare.com)",
+      "Bash(node scripts/build-md.mjs:*)",
+      "Bash(git check-ignore:*)",
+      "Bash(for u in https://amzn.to/4eBnXdS https://amzn.to/4dWU4EG https://amzn.to/3Qs2SIS)",
+      "Bash(do curl -sI -L -o /dev/null -w \"$u -> %{url_effective}\\\\n\" \"$u\")",
+      "Bash(done)"
     ]
   }
 }

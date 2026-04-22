@@ -4,9 +4,16 @@
 
   <url>
     <loc>https://www.caldecottbooks.com/</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.caldecottbooks.com/index.md</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>

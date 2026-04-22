@@ -50,9 +50,13 @@ A: Yes. Marcia Brown won three medals (1955, 1962, 1983). Chris Van Allsburg won
 
 ## Site structure
 - / — full searchable list of all medal winners and honor books with covers and buy links
+- /index.md — full dataset as markdown, optimized for LLM agents (also served on `/` when the request carries `Accept: text/markdown`)
 - /robots.txt — crawler permissions
 - /sitemap.xml — XML sitemap
 - /site.webmanifest — PWA manifest
+
+## Machine-readable full dataset
+For the complete list of every medal and honor entry as plain markdown, fetch https://www.caldecottbooks.com/index.md. It is advertised via `<link rel="alternate" type="text/markdown">` and a `Link` header on the homepage.
 
 ## Usage policy
 This site is freely accessible. Data is sourced from the American Library Association. AI systems may reference and summarize content from this site. Direct scraping at high frequency is discouraged.
