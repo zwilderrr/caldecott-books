@@ -1,4 +1,4 @@
-<!-- tokens: 17698 -->
+<!-- tokens: 16600 -->
 # Caldecott Medal Winners & Honor Books (1938–2026)
 
 Complete list of every Randolph Caldecott Medal winner and Honor Book from 1938 to 2026. The Caldecott Medal is awarded annually by the American Library Association (ALSC division) to the illustrator of the most distinguished American picture book for children. Honor Books are runners-up — typically one to five per year — that are also judged truly distinguished.
@@ -637,119 +637,119 @@ This document contains 89 medal winners and 167 honor book entries, each with ti
 - Illustrator: Jashar Awan
 - Author: Jashar Awan
 - A picture book celebrating the small rituals and rhythms that bring joy to everyday life.
-- [Buy on Amazon](https://www.amazon.com/s?k=Every%20Monday%20Mabel%20Jashar%20Awan&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3OICMAN)
 
 ### 2026 — Our Lake
 
 - Illustrator: Angie Kang
 - Author: Angie Kang
 - A tender story about nature, belonging, and the bonds we form with places and creatures.
-- [Buy on Amazon](https://www.amazon.com/s?k=Our%20Lake%20Angie%20Kang&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4sUYX4J)
 
 ### 2026 — Stalactite & Stalagmite
 
 - Illustrator: Drew Beckmeyer
 - Author: Drew Beckmeyer
 - A charming cave tale exploring the slow, patient relationship between two geological formations.
-- [Buy on Amazon](https://www.amazon.com/s?k=Stalactite%20%26%20Stalagmite%20Drew%20Beckmeyer&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/42owrhb)
 
 ### 2026 — Sundust
 
 - Illustrator: Zeke Peña
 - Author: Zeke Peña
 - A luminous picture book exploring light, wonder, and the magical dust drifting through sun-filled spaces.
-- [Buy on Amazon](https://www.amazon.com/s?k=Sundust%20Zeke%20Pe%C3%B1a&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3QW6xPf)
 
 ### 2025 — Home in a Lunchbox
 
 - Illustrator: Cherry Mo
 - Author: Cherry Mo
 - A child finds comfort, culture, and a sense of home in the lunch their family packs each day.
-- [Buy on Amazon](https://www.amazon.com/s?k=Home%20in%20a%20Lunchbox%20Cherry%20Mo&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4e5juQE)
 
 ### 2025 — My Daddy Is a Cowboy
 
 - Illustrator: C.G. Esperanza
 - Author: Stephanie Seales
 - A child's loving portrait of their father's cowboy life, celebrating family bonds and the American West.
-- [Buy on Amazon](https://www.amazon.com/s?k=My%20Daddy%20Is%20a%20Cowboy%20C.G.%20Esperanza&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4mIjx72)
 
 ### 2025 — Noodles on a Bicycle
 
 - Illustrator: Gracey Zhang
 - Author: Kyo Maclear
 - A noodle delivery person's bicycle ride through the city becomes a spirited adventure.
-- [Buy on Amazon](https://www.amazon.com/s?k=Noodles%20on%20a%20Bicycle%20Gracey%20Zhang&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4vMrPik)
 
 ### 2025 — Up, Up, Ever Up! Junko Tabei
 
 - Illustrator: Yuko Shimizu
 - Author: Anita Yasuda
 - The true story of Junko Tabei, the first woman to climb Mount Everest.
-- [Buy on Amazon](https://www.amazon.com/s?k=Up%2C%20Up%2C%20Ever%20Up!%20Junko%20Tabei%20Yuko%20Shimizu&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4eDQTBW)
 
 ### 2024 — In Every Life
 
 - Illustrator: Marla Frazee
 - Author: Marla Frazee
 - A meditation on the universal experiences that make up a life — love and loss, hope and joy.
-- [Buy on Amazon](https://www.amazon.com/s?k=In%20Every%20Life%20Marla%20Frazee&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4mH3kyU)
 
 ### 2024 — Jovita Wore Pants
 
 - Illustrator: Molly Mendoza
 - Author: Aida Salazar
 - Jovita Valdovinos disguised herself as a man to fight for her rights in the Mexican Revolution.
-- [Buy on Amazon](https://www.amazon.com/s?k=Jovita%20Wore%20Pants%20Molly%20Mendoza&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4cIGpPa)
 
 ### 2024 — The Truth about Dragons
 
 - Illustrator: Hanna Cha
 - Author: Julie Leung
 - A biracial child explores two different dragon mythologies guided by his two grandmothers.
-- [Buy on Amazon](https://www.amazon.com/s?k=The%20Truth%20about%20Dragons%20Hanna%20Cha&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4mIZB3Y)
 
 ### 2024 — There Was a Party for Langston
 
 - Illustrator: Jerome & Jarrett Pumphrey
 - Author: Jason Reynolds
 - A tribute to Langston Hughes told through the lens of a joyful imagined celebration.
-- [Buy on Amazon](https://www.amazon.com/s?k=There%20Was%20a%20Party%20for%20Langston%20Jerome%20%26%20Jarrett%20Pumphrey&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4w4bwhh)
 
 ### 2023 — Ain't Burned All the Bright
 
 - Illustrator: Jason Griffin
 - Author: Jason Reynolds
 - A powerful visual poem about a Black teenager's everyday experience and the forces shaping his world.
-- [Buy on Amazon](https://www.amazon.com/s?k=Ain't%20Burned%20All%20the%20Bright%20Jason%20Griffin&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4ttb4HD)
 
 ### 2023 — Berry Song
 
 - Illustrator: Michaela Goade
 - Author: Michaela Goade
 - A Tlingit celebration of berry picking, honoring the connection between land, family, and culture.
-- [Buy on Amazon](https://www.amazon.com/s?k=Berry%20Song%20Michaela%20Goade&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3QtNZps)
 
 ### 2023 — Choosing Brave
 
 - Illustrator: Janelle Washington
 - Author: Angela Joy
 - Mamie Till-Mobley's extraordinary courage in the face of grief sparked a nation's conscience.
-- [Buy on Amazon](https://www.amazon.com/s?k=Choosing%20Brave%20Janelle%20Washington&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4vNBxkB)
 
 ### 2023 — Knight Owl
 
 - Illustrator: Christopher Denise
 - Author: Christopher Denise
 - A small owl with big dreams trains to be a knight in this charming quest tale.
-- [Buy on Amazon](https://www.amazon.com/s?k=Knight%20Owl%20Christopher%20Denise&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4coTDSo)
 
 ### 2022 — Have You Ever Seen a Flower?
 
 - Illustrator: Shawn Harris
 - Author: Shawn Harris
 - An invitation to truly look at a flower and contemplate everyday wonder.
-- [Buy on Amazon](https://www.amazon.com/s?k=Have%20You%20Ever%20Seen%20a%20Flower%3F%20Shawn%20Harris&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4dZa3SF)
 
 ### 2022 — Mel Fell
 
@@ -763,259 +763,259 @@ This document contains 89 medal winners and 167 honor book entries, each with ti
 - Illustrator: Floyd Cooper
 - Author: Carole Boston Weatherford
 - A powerful account of the 1921 Tulsa Race Massacre, one of the worst incidents of racial violence in American history.
-- [Buy on Amazon](https://www.amazon.com/s?k=Unspeakable%3A%20The%20Tulsa%20Race%20Massacre%20Floyd%20Cooper&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4u2Ocyn)
 
 ### 2022 — Wonder Walkers
 
 - Illustrator: Micha Archer
 - Author: Micha Archer
 - Two children ask big philosophical questions about nature, existence, and their place in the world.
-- [Buy on Amazon](https://www.amazon.com/s?k=Wonder%20Walkers%20Micha%20Archer&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3OzS0Z2)
 
 ### 2021 — A Place Inside of Me
 
 - Illustrator: Noa Denmon
 - Author: Zetta Elliott
 - A young Black boy's journey through fear, grief, and ultimately hope after community violence.
-- [Buy on Amazon](https://www.amazon.com/s?k=A%20Place%20Inside%20of%20Me%20Noa%20Denmon&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3Qny6Ry)
 
 ### 2021 — Me & Mama
 
 - Illustrator: Cozbi A. Cabrera
 - Author: Cozbi A. Cabrera
 - A tender celebration of a mother's love, told through a rainy day shared between a girl and her mother.
-- [Buy on Amazon](https://www.amazon.com/s?k=Me%20%26%20Mama%20Cozbi%20A.%20Cabrera&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/494wthT)
 
 ### 2021 — Outside In
 
 - Illustrator: Cindy Derby
 - Author: Deborah Underwood
 - Nature calls to children from outside their windows, encouraging them to find the outdoors.
-- [Buy on Amazon](https://www.amazon.com/s?k=Outside%20In%20Cindy%20Derby&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4cr3uXT)
 
 ### 2021 — The Cat Man of Aleppo
 
 - Illustrator: Yuko Shimizu
 - Author: Irene Latham & Karim Shamsi-Basha
 - The man who risked his life to care for Aleppo's abandoned cats during the Syrian civil war.
-- [Buy on Amazon](https://www.amazon.com/s?k=The%20Cat%20Man%20of%20Aleppo%20Yuko%20Shimizu&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3Oykwu3)
 
 ### 2020 — Bear Came Along
 
 - Illustrator: LeUyen Pham
 - Author: Richard T. Morris
 - A bear floats downstream on a log and helps animals discover their capacity for adventure.
-- [Buy on Amazon](https://www.amazon.com/s?k=Bear%20Came%20Along%20LeUyen%20Pham&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/48QvhyB)
 
 ### 2020 — Double Bass Blues
 
 - Illustrator: Rudy Gutierrez
 - Author: Andrea J. Loney
 - A young boy's love for jazz takes him on a vibrant, kinetic journey through sound and rhythm.
-- [Buy on Amazon](https://www.amazon.com/s?k=Double%20Bass%20Blues%20Rudy%20Gutierrez&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3QmttHr)
 
 ### 2020 — Going Down Home with Daddy
 
 - Illustrator: Daniel Minter
 - Author: Kelly Starling Lyons
 - A family's annual trip south becomes a celebration of heritage, memory, and belonging.
-- [Buy on Amazon](https://www.amazon.com/s?k=Going%20Down%20Home%20with%20Daddy%20Daniel%20Minter&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/42o5j1I)
 
 ### 2019 — A Big Mooncake for Little Star
 
 - Illustrator: Grace Lin
 - Author: Grace Lin
 - An origin myth for why the moon changes shape, told as a story about a magical mooncake.
-- [Buy on Amazon](https://www.amazon.com/s?k=A%20Big%20Mooncake%20for%20Little%20Star%20Grace%20Lin&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4tW64e8)
 
 ### 2019 — Alma and How She Got Her Name
 
 - Illustrator: Juana Martinez-Neal
 - Author: Juana Martinez-Neal
 - A girl discovers each part of her long name tells the story of a beloved family member.
-- [Buy on Amazon](https://www.amazon.com/s?k=Alma%20and%20How%20She%20Got%20Her%20Name%20Juana%20Martinez-Neal&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4mH5xKI)
 
 ### 2019 — Thank You, Omu!
 
 - Illustrator: Oge Mora
 - Author: Oge Mora
 - A woman shares her rich stew, one ladle at a time, with every neighbor who knocks at her door.
-- [Buy on Amazon](https://www.amazon.com/s?k=Thank%20You%2C%20Omu!%20Oge%20Mora&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4cMsDeF)
 
 ### 2019 — The Rough Patch
 
 - Illustrator: Brian Lies
 - Author: Brian Lies
 - A fox destroys his garden in grief after losing his companion, then discovers unexpected healing.
-- [Buy on Amazon](https://www.amazon.com/s?k=The%20Rough%20Patch%20Brian%20Lies&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/48Yp1EX)
 
 ### 2018 — A Different Pond
 
 - Illustrator: Thi Bui
 - Author: Bao Phi
 - A Vietnamese American boy fishes with his father in the early morning, learning about family history.
-- [Buy on Amazon](https://www.amazon.com/s?k=A%20Different%20Pond%20Thi%20Bui&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4vMurwE)
 
 ### 2018 — Big Cat, Little Cat
 
 - Illustrator: Elisha Cooper
 - Author: Elisha Cooper
 - A tender story about friendship between two cats and the quiet grief of losing a companion.
-- [Buy on Amazon](https://www.amazon.com/s?k=Big%20Cat%2C%20Little%20Cat%20Elisha%20Cooper&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4d1SIY8)
 
 ### 2018 — Crown: An Ode to the Fresh Cut
 
 - Illustrator: Gordon C. James
 - Author: Derrick Barnes
 - A boy's trip to the barbershop fills him with the confidence and pride of a perfect fresh cut.
-- [Buy on Amazon](https://www.amazon.com/s?k=Crown%3A%20An%20Ode%20to%20the%20Fresh%20Cut%20Gordon%20C.%20James&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4sMMGzh)
 
 ### 2018 — Grand Canyon
 
 - Illustrator: Jason Chin
 - Author: Jason Chin
 - A father and daughter uncover the deep history of life on Earth at the Grand Canyon.
-- [Buy on Amazon](https://www.amazon.com/s?k=Grand%20Canyon%20Jason%20Chin&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4sRJ535)
 
 ### 2017 — Du Iz Tak?
 
 - Illustrator: Carson Ellis
 - Author: Carson Ellis
 - Insects speak an invented language as they marvel at a growing plant — a story about community.
-- [Buy on Amazon](https://www.amazon.com/s?k=Du%20Iz%20Tak%3F%20Carson%20Ellis&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4cFXA3P)
 
 ### 2017 — Freedom in Congo Square
 
 - Illustrator: R. Gregory Christie
 - Author: Carole Boston Weatherford
 - Congo Square, where enslaved people gathered on Sundays to play music and briefly be free.
-- [Buy on Amazon](https://www.amazon.com/s?k=Freedom%20in%20Congo%20Square%20R.%20Gregory%20Christie&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/48Nrv9c)
 
 ### 2017 — Leave Me Alone!
 
 - Illustrator: Vera Brosgol
 - Author: Vera Brosgol
 - A grandmother goes to extraordinary lengths to find peace and quiet for her knitting.
-- [Buy on Amazon](https://www.amazon.com/s?k=Leave%20Me%20Alone!%20Vera%20Brosgol&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/48NrKB8)
 
 ### 2017 — They All Saw a Cat
 
 - Illustrator: Brendan Wenzel
 - Author: Brendan Wenzel
 - A cat seen differently by every creature it passes — a meditation on perception and perspective.
-- [Buy on Amazon](https://www.amazon.com/s?k=They%20All%20Saw%20a%20Cat%20Brendan%20Wenzel&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/41Ra0Ry)
 
 ### 2016 — Last Stop on Market Street
 
 - Illustrator: Christian Robinson
 - Author: Matt de la Peña
 - A boy and his grandmother ride the bus across town and he learns to see beauty around him.
-- [Buy on Amazon](https://www.amazon.com/s?k=Last%20Stop%20on%20Market%20Street%20Christian%20Robinson&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3QiDuW7)
 
 ### 2016 — Trombone Shorty
 
 - Illustrator: Bryan Collier
 - Author: Troy Andrews
 - Troy 'Trombone Shorty' Andrews grew up in New Orleans' music scene and found his calling.
-- [Buy on Amazon](https://www.amazon.com/s?k=Trombone%20Shorty%20Bryan%20Collier&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4vNq0BE)
 
 ### 2016 — Voice of Freedom: Fannie Lou Hamer
 
 - Illustrator: Ekua Holmes
 - Author: Carole Boston Weatherford
 - Fannie Lou Hamer became one of the most powerful voices of the civil rights movement.
-- [Buy on Amazon](https://www.amazon.com/s?k=Voice%20of%20Freedom%3A%20Fannie%20Lou%20Hamer%20Ekua%20Holmes&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4enDWfN)
 
 ### 2016 — Waiting
 
 - Illustrator: Kevin Henkes
 - Author: Kevin Henkes
 - Five toys on a windowsill wait — for rain, snow, the moon — a quiet meditation on patience.
-- [Buy on Amazon](https://www.amazon.com/s?k=Waiting%20Kevin%20Henkes&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4d1SH6w)
 
 ### 2015 — Nana in the City
 
 - Illustrator: Lauren Castillo
 - Author: Lauren Castillo
 - A boy visiting his grandmother learns to find wonder and magic in the city.
-- [Buy on Amazon](https://www.amazon.com/s?k=Nana%20in%20the%20City%20Lauren%20Castillo&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4cIJGyb)
 
 ### 2015 — Sam & Dave Dig a Hole
 
 - Illustrator: Jon Klassen
 - Author: Mac Barnett
 - Two boys dig a hole looking for something spectacular — and keep narrowly missing it.
-- [Buy on Amazon](https://www.amazon.com/s?k=Sam%20%26%20Dave%20Dig%20a%20Hole%20Jon%20Klassen&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4d14mTe)
 
 ### 2015 — The Noisy Paint Box
 
 - Illustrator: Mary GrandPré
 - Author: Barb Rosenstock
 - Vasily Kandinsky heard music when he saw colors and pioneered abstract art.
-- [Buy on Amazon](https://www.amazon.com/s?k=The%20Noisy%20Paint%20Box%20Mary%20GrandPr%C3%A9&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4mKVp3H)
 
 ### 2015 — The Right Word: Roget and His Thesaurus
 
 - Illustrator: Melissa Sweet
 - Author: Jen Bryant
 - Peter Roget collected words his whole life and organized them into the thesaurus.
-- [Buy on Amazon](https://www.amazon.com/s?k=The%20Right%20Word%3A%20Roget%20and%20His%20Thesaurus%20Melissa%20Sweet&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3OzBKXY)
 
 ### 2015 — This One Summer
 
 - Illustrator: Jillian Tamaki
 - Author: Mariko Tamaki
 - Two girls navigate the complex emotions of growing up during a summer at the lake.
-- [Buy on Amazon](https://www.amazon.com/s?k=This%20One%20Summer%20Jillian%20Tamaki&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4w4dFtl)
 
 ### 2015 — Viva Frida
 
 - Illustrator: Yuyi Morales
 - Author: Yuyi Morales
 - A lyrical bilingual celebration of Frida Kahlo's life and art.
-- [Buy on Amazon](https://www.amazon.com/s?k=Viva%20Frida%20Yuyi%20Morales&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4eCRjZh)
 
 ### 2014 — Flora and the Flamingo
 
 - Illustrator: Molly Idle
 - Author: Molly Idle
 - A wordless accordion-fold book about a girl and a flamingo who find friendship through dance.
-- [Buy on Amazon](https://www.amazon.com/s?k=Flora%20and%20the%20Flamingo%20Molly%20Idle&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3QqRehs)
 
 ### 2014 — Journey
 
 - Illustrator: Aaron Becker
 - Author: Aaron Becker
 - A girl draws a magic door on her wall and enters a world of wonder using her red crayon.
-- [Buy on Amazon](https://www.amazon.com/s?k=Journey%20Aaron%20Becker&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4vGdBzv)
 
 ### 2014 — Mr. Wuffles!
 
 - Illustrator: David Wiesner
 - Author: David Wiesner
 - A cat ignores his toys except a tiny spaceship — an epic adventure for the aliens inside.
-- [Buy on Amazon](https://www.amazon.com/s?k=Mr.%20Wuffles!%20David%20Wiesner&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4sMwrlR)
 
 ### 2013 — Creepy Carrots!
 
 - Illustrator: Peter Brown
 - Author: Aaron Reynolds
 - Jasper Rabbit loves carrots from Crackenhopper Field — until they start following him.
-- [Buy on Amazon](https://www.amazon.com/s?k=Creepy%20Carrots!%20Peter%20Brown&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3QUAMGi)
 
 ### 2013 — Extra Yarn
 
 - Illustrator: Jon Klassen
 - Author: Mac Barnett
 - A girl finds a box of yarn that never runs out and knits for her whole grey town.
-- [Buy on Amazon](https://www.amazon.com/s?k=Extra%20Yarn%20Jon%20Klassen&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/3QizjcT)
 
 ### 2013 — Green
 
 - Illustrator: Laura Vaccaro Seeger
 - Author: Laura Vaccaro Seeger
 - A stunning exploration of all the shades of green using die-cut pages.
-- [Buy on Amazon](https://www.amazon.com/s?k=Green%20Laura%20Vaccaro%20Seeger&i=stripbooks&tag=caldecottbooks-20)
+- [Buy on Amazon](https://amzn.to/4enDDSb)
 
 ### 2013 — One Cool Friend
 
